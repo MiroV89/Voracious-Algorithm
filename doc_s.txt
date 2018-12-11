@@ -1,0 +1,62 @@
+554
+13 8 6 12 10 4 14 9 11 7 15 2 1 5 3 
+Paso: 1
+Datos: 13 
+Tiempo de espera: 1
+--------------------
+Paso: 2
+Datos: 13 8 
+Tiempo de espera: 4
+--------------------
+Paso: 3
+Datos: 13 8 6 
+Tiempo de espera: 10
+--------------------
+Paso: 4
+Datos: 13 8 6 12 
+Tiempo de espera: 19
+--------------------
+Paso: 5
+Datos: 13 8 6 12 10 
+Tiempo de espera: 32
+--------------------
+Paso: 6
+Datos: 13 8 6 12 10 4 
+Tiempo de espera: 50
+--------------------
+Paso: 7
+Datos: 13 8 6 12 10 4 14 
+Tiempo de espera: 73
+--------------------
+Paso: 8
+Datos: 13 8 6 12 10 4 14 9 
+Tiempo de espera: 102
+--------------------
+Paso: 9
+Datos: 13 8 6 12 10 4 14 9 11 
+Tiempo de espera: 138
+--------------------
+Paso: 10
+Datos: 13 8 6 12 10 4 14 9 11 7 
+Tiempo de espera: 182
+--------------------
+Paso: 11
+Datos: 13 8 6 12 10 4 14 9 11 7 15 
+Tiempo de espera: 234
+--------------------
+Paso: 12
+Datos: 13 8 6 12 10 4 14 9 11 7 15 2 
+Tiempo de espera: 295
+--------------------
+Paso: 13
+Datos: 13 8 6 12 10 4 14 9 11 7 15 2 1 
+Tiempo de espera: 367
+--------------------
+Paso: 14
+Datos: 13 8 6 12 10 4 14 9 11 7 15 2 1 5 
+Tiempo de espera: 452
+--------------------
+Paso: 15
+Datos: 13 8 6 12 10 4 14 9 11 7 15 2 1 5 3 
+Tiempo de espera: 554
+--------------------
